@@ -12,12 +12,10 @@ namespace DALProject.Data.Configartions
     {
         public void Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<Color> builder)
         {
-            builder.Property(e => e.ColorId)
-           .IsRequired() 
-           .ValueGeneratedOnAdd(); 
+          
 
         
-            builder.Property(e => e.ColorName)
+            builder.Property(e => e.Name)
                 .IsRequired()
                 .HasMaxLength(50) 
                 .HasColumnType("varchar"); 

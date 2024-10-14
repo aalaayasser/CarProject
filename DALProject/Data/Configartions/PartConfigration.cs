@@ -13,7 +13,7 @@ namespace DALProject.Data.Configartions
         public void Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<Part> builder)
         {
             
-            builder.Property(p => p.PartId)
+            builder.Property(p => p.Id)
                 .IsRequired(); 
 
             
@@ -22,7 +22,7 @@ namespace DALProject.Data.Configartions
                 .HasColumnType("varchar(100)"); 
 
            
-            builder.Property(p => p.PartPrice)
+            builder.Property(p => p.Price)
                 .IsRequired() 
                 .HasColumnType("decimal(18, 2)");
 

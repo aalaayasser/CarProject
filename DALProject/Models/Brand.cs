@@ -10,15 +10,10 @@ namespace DALProject.Models
     public class Brand
     {
         public int Id { get; set; }
-
+        [Required]
         [Display(Name = "Brand Name")]
         public string BrandName { get; set; }
 
-        [Display(Name = "Created Date")]
-        public DateTime CreatedDate { get; set; }
-
-        [Display(Name = "Updated Date")]
-        public DateTime UpdatedDate { get; set; }
         public virtual ICollection<Model> Models { get; set; } = new HashSet<Model>();
     }
 }

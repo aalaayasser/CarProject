@@ -1,0 +1,12 @@
+C:\Users\alaae\OneDrive\Desktop\CarProject\BLLProject\bin\Debug\net5.0\BLLProject.deps.json
+C:\Users\alaae\OneDrive\Desktop\CarProject\BLLProject\bin\Debug\net5.0\BLLProject.dll
+C:\Users\alaae\OneDrive\Desktop\CarProject\BLLProject\bin\Debug\net5.0\BLLProject.pdb
+C:\Users\alaae\OneDrive\Desktop\CarProject\BLLProject\obj\Debug\net5.0\BLLProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alaae\OneDrive\Desktop\CarProject\BLLProject\obj\Debug\net5.0\BLLProject.AssemblyInfoInputs.cache
+C:\Users\alaae\OneDrive\Desktop\CarProject\BLLProject\obj\Debug\net5.0\BLLProject.AssemblyInfo.cs
+C:\Users\alaae\OneDrive\Desktop\CarProject\BLLProject\obj\Debug\net5.0\BLLProject.csproj.CoreCompileInputs.cache
+C:\Users\alaae\OneDrive\Desktop\CarProject\BLLProject\obj\Debug\net5.0\BLLProject.sourcelink.json
+C:\Users\alaae\OneDrive\Desktop\CarProject\BLLProject\obj\Debug\net5.0\BLLProject.dll
+C:\Users\alaae\OneDrive\Desktop\CarProject\BLLProject\obj\Debug\net5.0\refint\BLLProject.dll
+C:\Users\alaae\OneDrive\Desktop\CarProject\BLLProject\obj\Debug\net5.0\BLLProject.pdb
+C:\Users\alaae\OneDrive\Desktop\CarProject\BLLProject\obj\Debug\net5.0\ref\BLLProject.dll

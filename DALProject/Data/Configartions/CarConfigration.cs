@@ -15,10 +15,10 @@ namespace DALProject.Data.Configartions
         {
             builder.Property(c => c.KiloMetres)
              .IsRequired()
-             .HasColumnType("bigint"); // تحويل لـ bigint
+             .HasColumnType("bigint"); 
 
             builder.Property(c => c.Description)
-            .HasColumnType("text"); // تحويل لـ varchar
+            .HasColumnType("text"); 
         }
     }
 

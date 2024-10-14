@@ -13,7 +13,7 @@ namespace DALProject.Models
         public int Id { get; set; }
         [Required]
         [Display(Name = "Current Kilometres")]
-        public int CurrentKilometres { get; set; }
+        public long  CurrentKilometres { get; set; }
 
         [Display(Name = "Start Date & Time")]
         public DateTime StartDateTime { get; set; }
@@ -21,11 +21,11 @@ namespace DALProject.Models
         [Required]
         public string Location { get; set; }
 
-
+        [Required]
         public string State { get; set; }
 
         [Display(Name = "Final Report")]
-        public string FinalReport { get; set; }
+        public string FinalReport { get; set; } = null!;
 
         [Display(Name = "End Date & Time")]
         public DateTime EndDateTime { get; set; }
@@ -36,10 +36,11 @@ namespace DALProject.Models
         public int CarId { get; set; }
         public int ServiceId { get; set; }
 
-        public string Feedback { get; set; }
+        public string? Feedback { get; set; }
 
         [Display(Name = "Is Paid")]
-        public char IsPayed { get; set; }
+        [Required]
+        public string IsPayed { get; set; }
 
         [InverseProperty(nameof(Appointment.Tickets))]
         public virtual ICollection<Appointment> Appointments { get; set; } = new HashSet<Appointment>();

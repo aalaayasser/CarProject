@@ -39,7 +39,7 @@ namespace DALProject.Data.Configartions
 
             builder.Property(e => e.IsPayed)
                .IsRequired()
-               .HasColumnType("char");
+               .HasColumnType("varchar");
 
              
 

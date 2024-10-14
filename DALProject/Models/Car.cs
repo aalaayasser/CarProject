@@ -12,15 +12,15 @@ namespace DALProject.Models
         public int Id { get; set; }
 
         [Display(Name = "Model ID")]
-        [Required]
-        public int ModelId { get; set; }
+        
+        public int? ModelId { get; set; }
 
         [Display(Name = "Customer ID")]
-        [Required]
-        public int CustomerId { get; set; }
+        
+        public int? CustomerId { get; set; }
 
         [Display(Name = "Color ID")]
-        public long ColorId { get; set; }
+        public int? ColorId { get; set; }
         [Required]
 
         [Display(Name = "Kilometres")]
@@ -30,19 +30,15 @@ namespace DALProject.Models
         public DateTime Year { get; set; }
 
         [Display(Name = "Description")]
-        public string Description { get; set; }
+        public string? Description { get; set; }
 
-        [Display(Name = "Created Date")]
-        public DateTime CreatedDate { get; set; }
+        
 
-        [Display(Name = "Updated Date")]
-        public DateTime UpdatedDate { get; set; }
+        public virtual ICollection<Ticket> Tickets { get; set; } = new HashSet<Ticket>();
 
-        public virtual ICollection<Ticket>? Tickets { get; set; } = new HashSet<Ticket>();
-
-        public virtual Customer Customer { get; set; }
-        public virtual Color Color { get; set; }
-        public virtual Model Model { get; set; }
+        public virtual Customer Customer { get; set; } = null!;
+        public virtual Color Color { get; set; } = null!;
+        public virtual Model Model { get; set; } = null!;
 
     }
 }

@@ -9,16 +9,16 @@ namespace DALProject.Models
 {
     public class Part
     {
-        [Display(Name = "Part ID")]
-        public int PartId { get; set; }
+       
+        public int Id { get; set; }
 
         [Required]
         [Display(Name = "Part Name")]
         public string PartName { get; set; }
 
         [Required(ErrorMessage = "Part Price is required.")]
-        [Display(Name = "Part Price")]
-        public int PartPrice { get; set; }
+        
+        public int Price { get; set; }
 
         [Required(ErrorMessage = "Part Kilometres to Change is required.")]
         [Display(Name = "Kilometres to Change Part")]
