@@ -10,13 +10,14 @@ namespace DALProject.Models
     public class Ticket
     {
         public int Id { get; set; }
-
+        [Required]
         [Display(Name = "Current Kilometres")]
         public int CurrentKilometres { get; set; }
 
         [Display(Name = "Start Date & Time")]
         public DateTime StartDateTime { get; set; }
 
+        [Required]
         public string Location { get; set; }
 
 
