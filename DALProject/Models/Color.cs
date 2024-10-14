@@ -16,5 +16,7 @@ namespace DALProject.Models
         [StringLength(50, ErrorMessage = "The Color Name must not exceed 50 characters.")]
         public string ColorName { get; set; }
 
+        public virtual ICollection<Car> Car { get; set; } = new HashSet<Car>();
+
     }
 }

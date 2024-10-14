@@ -23,5 +23,6 @@ namespace DALProject.Models
         [Required(ErrorMessage = "Part Kilometres to Change is required.")]
         [Display(Name = "Kilometres to Change Part")]
         public long PartKilometresToChange { get; set; }
+        public virtual ICollection<Model> Models { get; set; } = new HashSet<Model>();
     }
 }

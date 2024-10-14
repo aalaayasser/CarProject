@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alaae\\source\\repos\\CarProject\\",
+  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\CarProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00441DB7-3E13-4C66-87BE-8D6F4F95B3D7}|PlProject\\PlProject.csproj|c:\\users\\alaae\\source\\repos\\carproject\\plproject\\plproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{00441DB7-3E13-4C66-87BE-8D6F4F95B3D7}|PlProject\\PlProject.csproj|solutionrelative:plproject\\plproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\source\\repos\\CarProject\\PlProject\\PlProject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PlProject\\PlProject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{267E783B-E527-497C-94C2-29B03C8C4B89}|DALProject\\DALProject.csproj|c:\\users\\alaae\\source\\repos\\carproject\\dalproject\\dalproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{267E783B-E527-497C-94C2-29B03C8C4B89}|DALProject\\DALProject.csproj|solutionrelative:dalproject\\dalproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\source\\repos\\CarProject\\dalproject\\dalproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dalproject\\dalproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04545737-C8DF-431B-98B2-FF3063CA5B55}|BLLProject\\BLLProject.csproj|c:\\users\\alaae\\source\\repos\\carproject\\bllproject\\bllproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{04545737-C8DF-431B-98B2-FF3063CA5B55}|BLLProject\\BLLProject.csproj|solutionrelative:bllproject\\bllproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\source\\repos\\CarProject\\bllproject\\bllproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bllproject\\bllproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +22,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -31,11 +43,11 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PlProject",
-              "DocumentMoniker": "C:\\Users\\alaae\\source\\repos\\CarProject\\PlProject\\PlProject.csproj",
+              "Title": "PlProject.csproj",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CarProject\\PlProject\\PlProject.csproj",
               "RelativeDocumentMoniker": "PlProject\\PlProject.csproj",
-              "ToolTip": "C:\\Users\\alaae\\source\\repos\\CarProject\\PlProject\\PlProject.csproj*",
-              "RelativeToolTip": "PlProject\\PlProject.csproj*",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CarProject\\PlProject\\PlProject.csproj",
+              "RelativeToolTip": "PlProject\\PlProject.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-10-13T22:21:07.236Z",
@@ -53,27 +65,25 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "DALProject",
-              "DocumentMoniker": "C:\\Users\\alaae\\source\\repos\\CarProject\\DALProject\\DALProject.csproj",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CarProject\\DALProject\\DALProject.csproj",
               "RelativeDocumentMoniker": "DALProject\\DALProject.csproj",
-              "ToolTip": "C:\\Users\\alaae\\source\\repos\\CarProject\\DALProject\\DALProject.csproj",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CarProject\\DALProject\\DALProject.csproj",
               "RelativeToolTip": "DALProject\\DALProject.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-13T22:21:06.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T22:21:06.081Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "BLLProject",
-              "DocumentMoniker": "C:\\Users\\alaae\\source\\repos\\CarProject\\BLLProject\\BLLProject.csproj",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\CarProject\\BLLProject\\BLLProject.csproj",
               "RelativeDocumentMoniker": "BLLProject\\BLLProject.csproj",
-              "ToolTip": "C:\\Users\\alaae\\source\\repos\\CarProject\\BLLProject\\BLLProject.csproj",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\CarProject\\BLLProject\\BLLProject.csproj",
               "RelativeToolTip": "BLLProject\\BLLProject.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-13T22:21:04.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T22:21:04.907Z"
             }
           ]
         },
