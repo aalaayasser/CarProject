@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
 namespace DALProject.Models
@@ -12,6 +13,7 @@ namespace DALProject.Models
 
         [Display(Name = "License Expiry Date")]
         public DateTime LicenseExpDate { get; set; }
+        public virtual ICollection<Appointment> Appointments { get; set; } = new HashSet<Appointment>();
     }
    
 
