@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alaae\\pc\\Desktop\\CarProject\\DALProject\\DALProject.csproj": {}
+    "C:\\Users\\alaae\\source\\repos\\CarProject\\DALProject\\DALProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alaae\\pc\\Desktop\\CarProject\\DALProject\\DALProject.csproj": {
+    "C:\\Users\\alaae\\source\\repos\\CarProject\\DALProject\\DALProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alaae\\pc\\Desktop\\CarProject\\DALProject\\DALProject.csproj",
+        "projectUniqueName": "C:\\Users\\alaae\\source\\repos\\CarProject\\DALProject\\DALProject.csproj",
         "projectName": "DALProject",
-        "projectPath": "C:\\Users\\alaae\\pc\\Desktop\\CarProject\\DALProject\\DALProject.csproj",
+        "projectPath": "C:\\Users\\alaae\\source\\repos\\CarProject\\DALProject\\DALProject.csproj",
         "packagesPath": "C:\\Users\\alaae\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alaae\\pc\\Desktop\\CarProject\\DALProject\\obj\\",
+        "outputPath": "C:\\Users\\alaae\\source\\repos\\CarProject\\DALProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alaae\\AppData\\Roaming\\NuGet\\NuGet.Config",

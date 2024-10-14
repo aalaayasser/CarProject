@@ -5942,11 +5942,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alaae\\pc\\Desktop\\CarProject\\DALProject\\DALProject.csproj",
+      "projectUniqueName": "C:\\Users\\alaae\\Source\\Repos\\CarProject\\DALProject\\DALProject.csproj",
       "projectName": "DALProject",
-      "projectPath": "C:\\Users\\alaae\\pc\\Desktop\\CarProject\\DALProject\\DALProject.csproj",
+      "projectPath": "C:\\Users\\alaae\\Source\\Repos\\CarProject\\DALProject\\DALProject.csproj",
       "packagesPath": "C:\\Users\\alaae\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alaae\\pc\\Desktop\\CarProject\\DALProject\\obj\\",
+      "outputPath": "C:\\Users\\alaae\\Source\\Repos\\CarProject\\DALProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alaae\\AppData\\Roaming\\NuGet\\NuGet.Config",
