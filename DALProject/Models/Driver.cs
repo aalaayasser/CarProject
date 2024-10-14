@@ -6,6 +6,7 @@ namespace DALProject.Models
 {
     public class  Driver : Employee
     {
+       
         public string License  { get; set; }
 
         [Display(Name = "License Date")]

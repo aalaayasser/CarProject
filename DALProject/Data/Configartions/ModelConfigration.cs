@@ -13,9 +13,9 @@ namespace DALProject.Data.Configartions
     {
         public void Configure(EntityTypeBuilder<Model> builder)
         {
-            builder.Property(m => m.ModelName)
+            builder.Property(m => m.Name)
            .IsRequired()
-           .HasColumnType("text"); // تحويل لـ text
+           .HasColumnType("text"); 
         }
     }
 }

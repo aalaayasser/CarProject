@@ -16,7 +16,7 @@ namespace DALProject.Data.Configartions
         {
             builder.Property(b => b.BrandName)
             .IsRequired()
-            .HasColumnType("text"); // تحويل لـ text
+            .HasColumnType("text"); 
         }
     }
 }

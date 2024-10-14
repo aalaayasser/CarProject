@@ -17,9 +17,9 @@ namespace DALProject.Models
         [Required]
         public decimal Price{ get; set; }
         public DataType EstimatedTime{ get; set; }
-        public string Description{ get; set; }
+        public string? Description{ get; set; }
 
-        public virtual Category Category { get; set; } 
+        public virtual Category Category { get; set; } = null!;
         public virtual ICollection<Ticket> Tickets { get; set; } = new HashSet<Ticket>();
     }
 
@@ -28,4 +28,4 @@ namespace DALProject.Models
 
 
 }
-}
+
