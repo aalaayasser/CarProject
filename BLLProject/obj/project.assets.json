@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alaae\\pc\\Desktop\\CarProject\\BLLProject\\BLLProject.csproj",
+      "projectUniqueName": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\BLLProject\\BLLProject.csproj",
       "projectName": "BLLProject",
-      "projectPath": "C:\\Users\\alaae\\pc\\Desktop\\CarProject\\BLLProject\\BLLProject.csproj",
+      "projectPath": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\BLLProject\\BLLProject.csproj",
       "packagesPath": "C:\\Users\\alaae\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alaae\\pc\\Desktop\\CarProject\\BLLProject\\obj\\",
+      "outputPath": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\BLLProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alaae\\AppData\\Roaming\\NuGet\\NuGet.Config",
