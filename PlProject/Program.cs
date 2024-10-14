@@ -14,6 +14,8 @@ namespace PlProject
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
+
+            Console.WriteLine("This is yousef's migration");
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>

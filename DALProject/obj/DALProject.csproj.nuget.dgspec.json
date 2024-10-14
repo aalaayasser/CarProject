@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\DALProject\\DALProject.csproj": {}
+    "C:\\Users\\Dell\\Source\\Repos\\CarProject\\DALProject\\DALProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\DALProject\\DALProject.csproj": {
+    "C:\\Users\\Dell\\Source\\Repos\\CarProject\\DALProject\\DALProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\DALProject\\DALProject.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Source\\Repos\\CarProject\\DALProject\\DALProject.csproj",
         "projectName": "DALProject",
-        "projectPath": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\DALProject\\DALProject.csproj",
-        "packagesPath": "C:\\Users\\alaae\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\DALProject\\obj\\",
+        "projectPath": "C:\\Users\\Dell\\Source\\Repos\\CarProject\\DALProject\\DALProject.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dell\\Source\\Repos\\CarProject\\DALProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alaae\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }
