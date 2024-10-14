@@ -1,13 +1,43 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace DALProject.Models
 {
-    internal class Ticket
+    public class Ticket
     {
-        //dddd
+        public int Id { get; set; }
+
+        [Display(Name = "Current Kilometres")]
+        public int CurrentKilometres { get; set; }
+
+        [Display(Name = "Start Date & Time")]
+        public DateTime StartDateTime { get; set; }
+
+        public string Location { get; set; }
+
+
+        public string State { get; set; }
+
+        [Display(Name = "Final Report")]
+        public string FinalReport { get; set; }
+
+        [Display(Name = "End Date & Time")]
+        public DateTime EndDateTime { get; set; }
+
+        [Display(Name = "Active Date of Part")]
+        public DateTime ActiveDatePfPart { get; set; }
+
+
+        public string Feedback { get; set; }
+
+        [Display(Name = "Is Paid")]
+        public char IsPayed { get; set; }
+
     }
+
 }
+
