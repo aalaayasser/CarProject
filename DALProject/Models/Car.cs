@@ -37,5 +37,8 @@ namespace DALProject.Models
 
         [Display(Name = "Updated Date")]
         public DateTime UpdatedDate { get; set; }
+
+        public virtual ICollection<Ticket>? Tickets { get; set; } = new HashSet<Ticket>();
+
     }
 }

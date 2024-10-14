@@ -24,11 +24,15 @@ namespace DALProject.Models
         public DateTime EndtDateTime { get; set; }
         public int TechnicalId { get; set; }
         public int DriverId { get; set; }
+        public int TicketId { get; set; }
 
         [InverseProperty( nameof(Technical.Appointments))]
         public virtual Technical Technicians { get; set; }
 
         [InverseProperty( nameof(Driver.Appointments))]
         public virtual Driver Drivers { get; set; }
+
+        [InverseProperty(nameof(Ticket.Appointments))]
+        public virtual Ticket Tickets { get; set; }
     }
 }
