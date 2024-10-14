@@ -1,0 +1,13 @@
+C:\Users\LORD LAOTOP\Downloads\ss\DALProject\obj\Debug\net5.0\DALProject.csproj.AssemblyReference.cache
+C:\Users\LORD LAOTOP\Downloads\ss\DALProject\obj\Debug\net5.0\DALProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LORD LAOTOP\Downloads\ss\DALProject\obj\Debug\net5.0\DALProject.AssemblyInfoInputs.cache
+C:\Users\LORD LAOTOP\Downloads\ss\DALProject\obj\Debug\net5.0\DALProject.AssemblyInfo.cs
+C:\Users\LORD LAOTOP\Downloads\ss\DALProject\obj\Debug\net5.0\DALProject.csproj.CoreCompileInputs.cache
+C:\Users\LORD LAOTOP\Downloads\ss\DALProject\obj\Debug\net5.0\DALProject.sourcelink.json
+C:\Users\LORD LAOTOP\Downloads\ss\DALProject\bin\Debug\net5.0\DALProject.deps.json
+C:\Users\LORD LAOTOP\Downloads\ss\DALProject\bin\Debug\net5.0\DALProject.dll
+C:\Users\LORD LAOTOP\Downloads\ss\DALProject\bin\Debug\net5.0\DALProject.pdb
+C:\Users\LORD LAOTOP\Downloads\ss\DALProject\obj\Debug\net5.0\DALProject.dll
+C:\Users\LORD LAOTOP\Downloads\ss\DALProject\obj\Debug\net5.0\refint\DALProject.dll
+C:\Users\LORD LAOTOP\Downloads\ss\DALProject\obj\Debug\net5.0\DALProject.pdb
+C:\Users\LORD LAOTOP\Downloads\ss\DALProject\obj\Debug\net5.0\ref\DALProject.dll

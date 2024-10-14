@@ -20,4 +20,5 @@ namespace DALProject.Models
         [Display(Name = "Updated Date")]
         public DateTime UpdatedDate { get; set; }
     }
+}
 
