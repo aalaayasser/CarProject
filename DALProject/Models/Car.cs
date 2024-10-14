@@ -40,5 +40,9 @@ namespace DALProject.Models
 
         public virtual ICollection<Ticket>? Tickets { get; set; } = new HashSet<Ticket>();
 
+        public virtual Customer Customer { get; set; }
+        public virtual Color Color { get; set; }
+        public virtual Model Model { get; set; }
+
     }
 }
