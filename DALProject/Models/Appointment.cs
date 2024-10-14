@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace DALProject.Models
 {
-    internal class Appointment
+    public class Appointment
     {
         public int Id { get; set; }
 
