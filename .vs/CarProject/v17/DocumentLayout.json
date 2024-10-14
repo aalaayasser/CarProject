@@ -1,17 +1,89 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alaae\\source\\repos\\CarProject\\",
+  "WorkspaceRootPath": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00441DB7-3E13-4C66-87BE-8D6F4F95B3D7}|PlProject\\PlProject.csproj|c:\\users\\alaae\\source\\repos\\carproject\\plproject\\plproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{00441DB7-3E13-4C66-87BE-8D6F4F95B3D7}|PlProject\\PlProject.csproj|solutionrelative:plproject\\plproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{267E783B-E527-497C-94C2-29B03C8C4B89}|DALProject\\DALProject.csproj|c:\\users\\alaae\\source\\repos\\carproject\\dalproject\\dalproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{267E783B-E527-497C-94C2-29B03C8C4B89}|DALProject\\DALProject.csproj|c:\\users\\alaae\\onedrive\\desktop\\carproject\\dalproject\\dalproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{267E783B-E527-497C-94C2-29B03C8C4B89}|DALProject\\DALProject.csproj|solutionrelative:dalproject\\dalproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04545737-C8DF-431B-98B2-FF3063CA5B55}|BLLProject\\BLLProject.csproj|c:\\users\\alaae\\source\\repos\\carproject\\bllproject\\bllproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{267E783B-E527-497C-94C2-29B03C8C4B89}|DALProject\\DALProject.csproj|c:\\users\\alaae\\onedrive\\desktop\\carproject\\dalproject\\models\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267E783B-E527-497C-94C2-29B03C8C4B89}|DALProject\\DALProject.csproj|solutionrelative:dalproject\\models\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267E783B-E527-497C-94C2-29B03C8C4B89}|DALProject\\DALProject.csproj|c:\\users\\alaae\\onedrive\\desktop\\carproject\\dalproject\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267E783B-E527-497C-94C2-29B03C8C4B89}|DALProject\\DALProject.csproj|solutionrelative:dalproject\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267E783B-E527-497C-94C2-29B03C8C4B89}|DALProject\\DALProject.csproj|c:\\users\\alaae\\onedrive\\desktop\\carproject\\dalproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267E783B-E527-497C-94C2-29B03C8C4B89}|DALProject\\DALProject.csproj|solutionrelative:dalproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267E783B-E527-497C-94C2-29B03C8C4B89}|DALProject\\DALProject.csproj|c:\\users\\alaae\\onedrive\\desktop\\carproject\\dalproject\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267E783B-E527-497C-94C2-29B03C8C4B89}|DALProject\\DALProject.csproj|solutionrelative:dalproject\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267E783B-E527-497C-94C2-29B03C8C4B89}|DALProject\\DALProject.csproj|c:\\users\\alaae\\onedrive\\desktop\\carproject\\dalproject\\models\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267E783B-E527-497C-94C2-29B03C8C4B89}|DALProject\\DALProject.csproj|solutionrelative:dalproject\\models\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267E783B-E527-497C-94C2-29B03C8C4B89}|DALProject\\DALProject.csproj|c:\\users\\alaae\\onedrive\\desktop\\carproject\\dalproject\\models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267E783B-E527-497C-94C2-29B03C8C4B89}|DALProject\\DALProject.csproj|solutionrelative:dalproject\\models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267E783B-E527-497C-94C2-29B03C8C4B89}|DALProject\\DALProject.csproj|c:\\users\\alaae\\onedrive\\desktop\\carproject\\dalproject\\models\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267E783B-E527-497C-94C2-29B03C8C4B89}|DALProject\\DALProject.csproj|solutionrelative:dalproject\\models\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267E783B-E527-497C-94C2-29B03C8C4B89}|DALProject\\DALProject.csproj|c:\\users\\alaae\\onedrive\\desktop\\carproject\\dalproject\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267E783B-E527-497C-94C2-29B03C8C4B89}|DALProject\\DALProject.csproj|solutionrelative:dalproject\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267E783B-E527-497C-94C2-29B03C8C4B89}|DALProject\\DALProject.csproj|c:\\users\\alaae\\onedrive\\desktop\\carproject\\dalproject\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267E783B-E527-497C-94C2-29B03C8C4B89}|DALProject\\DALProject.csproj|solutionrelative:dalproject\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267E783B-E527-497C-94C2-29B03C8C4B89}|DALProject\\DALProject.csproj|c:\\users\\alaae\\onedrive\\desktop\\carproject\\dalproject\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267E783B-E527-497C-94C2-29B03C8C4B89}|DALProject\\DALProject.csproj|solutionrelative:dalproject\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267E783B-E527-497C-94C2-29B03C8C4B89}|DALProject\\DALProject.csproj|c:\\users\\alaae\\onedrive\\desktop\\carproject\\dalproject\\data\\configartions\\ticketconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267E783B-E527-497C-94C2-29B03C8C4B89}|DALProject\\DALProject.csproj|solutionrelative:dalproject\\data\\configartions\\ticketconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267E783B-E527-497C-94C2-29B03C8C4B89}|DALProject\\DALProject.csproj|c:\\users\\alaae\\onedrive\\desktop\\carproject\\dalproject\\data\\configartions\\partconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267E783B-E527-497C-94C2-29B03C8C4B89}|DALProject\\DALProject.csproj|solutionrelative:dalproject\\data\\configartions\\partconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267E783B-E527-497C-94C2-29B03C8C4B89}|DALProject\\DALProject.csproj|c:\\users\\alaae\\onedrive\\desktop\\carproject\\dalproject\\data\\configartions\\modelconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267E783B-E527-497C-94C2-29B03C8C4B89}|DALProject\\DALProject.csproj|solutionrelative:dalproject\\data\\configartions\\modelconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267E783B-E527-497C-94C2-29B03C8C4B89}|DALProject\\DALProject.csproj|c:\\users\\alaae\\onedrive\\desktop\\carproject\\dalproject\\data\\configartions\\colorconfigartion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267E783B-E527-497C-94C2-29B03C8C4B89}|DALProject\\DALProject.csproj|solutionrelative:dalproject\\data\\configartions\\colorconfigartion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267E783B-E527-497C-94C2-29B03C8C4B89}|DALProject\\DALProject.csproj|c:\\users\\alaae\\onedrive\\desktop\\carproject\\dalproject\\data\\configartions\\carconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267E783B-E527-497C-94C2-29B03C8C4B89}|DALProject\\DALProject.csproj|solutionrelative:dalproject\\data\\configartions\\carconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267E783B-E527-497C-94C2-29B03C8C4B89}|DALProject\\DALProject.csproj|c:\\users\\alaae\\onedrive\\desktop\\carproject\\dalproject\\data\\configartions\\brandconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267E783B-E527-497C-94C2-29B03C8C4B89}|DALProject\\DALProject.csproj|solutionrelative:dalproject\\data\\configartions\\brandconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267E783B-E527-497C-94C2-29B03C8C4B89}|DALProject\\DALProject.csproj|c:\\users\\alaae\\onedrive\\desktop\\carproject\\dalproject\\carappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267E783B-E527-497C-94C2-29B03C8C4B89}|DALProject\\DALProject.csproj|solutionrelative:dalproject\\carappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00441DB7-3E13-4C66-87BE-8D6F4F95B3D7}|PlProject\\PlProject.csproj|c:\\users\\alaae\\onedrive\\desktop\\carproject\\plproject\\plproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{00441DB7-3E13-4C66-87BE-8D6F4F95B3D7}|PlProject\\PlProject.csproj|solutionrelative:plproject\\plproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00441DB7-3E13-4C66-87BE-8D6F4F95B3D7}|PlProject\\PlProject.csproj|c:\\users\\alaae\\onedrive\\desktop\\carproject\\plproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00441DB7-3E13-4C66-87BE-8D6F4F95B3D7}|PlProject\\PlProject.csproj|solutionrelative:plproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04545737-C8DF-431B-98B2-FF3063CA5B55}|BLLProject\\BLLProject.csproj|c:\\users\\alaae\\onedrive\\desktop\\carproject\\bllproject\\bllproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{04545737-C8DF-431B-98B2-FF3063CA5B55}|BLLProject\\BLLProject.csproj|solutionrelative:bllproject\\bllproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -22,24 +94,245 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 25,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TicketConfigration.cs",
+              "DocumentMoniker": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\DALProject\\Data\\Configartions\\TicketConfigration.cs",
+              "RelativeDocumentMoniker": "DALProject\\Data\\Configartions\\TicketConfigration.cs",
+              "ToolTip": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\DALProject\\Data\\Configartions\\TicketConfigration.cs",
+              "RelativeToolTip": "DALProject\\Data\\Configartions\\TicketConfigration.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T21:01:18.217Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PlProject",
-              "DocumentMoniker": "C:\\Users\\alaae\\source\\repos\\CarProject\\PlProject\\PlProject.csproj",
-              "RelativeDocumentMoniker": "PlProject\\PlProject.csproj",
-              "ToolTip": "C:\\Users\\alaae\\source\\repos\\CarProject\\PlProject\\PlProject.csproj*",
-              "RelativeToolTip": "PlProject\\PlProject.csproj*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-13T22:21:07.236Z",
+              "DocumentIndex": 12,
+              "Title": "PartConfigration.cs",
+              "DocumentMoniker": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\DALProject\\Data\\Configartions\\PartConfigration.cs",
+              "RelativeDocumentMoniker": "DALProject\\Data\\Configartions\\PartConfigration.cs",
+              "ToolTip": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\DALProject\\Data\\Configartions\\PartConfigration.cs",
+              "RelativeToolTip": "DALProject\\Data\\Configartions\\PartConfigration.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T20:59:39.858Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ModelConfigration.cs",
+              "DocumentMoniker": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\DALProject\\Data\\Configartions\\ModelConfigration.cs",
+              "RelativeDocumentMoniker": "DALProject\\Data\\Configartions\\ModelConfigration.cs",
+              "ToolTip": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\DALProject\\Data\\Configartions\\ModelConfigration.cs",
+              "RelativeToolTip": "DALProject\\Data\\Configartions\\ModelConfigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T20:58:54.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CarConfigration.cs",
+              "DocumentMoniker": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\DALProject\\Data\\Configartions\\CarConfigration.cs",
+              "RelativeDocumentMoniker": "DALProject\\Data\\Configartions\\CarConfigration.cs",
+              "ToolTip": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\DALProject\\Data\\Configartions\\CarConfigration.cs",
+              "RelativeToolTip": "DALProject\\Data\\Configartions\\CarConfigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T20:57:42.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\DALProject\\Models\\Driver.cs",
+              "RelativeDocumentMoniker": "DALProject\\Models\\Driver.cs",
+              "ToolTip": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\DALProject\\Models\\Driver.cs",
+              "RelativeToolTip": "DALProject\\Models\\Driver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T20:38:34.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\DALProject\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DALProject\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\DALProject\\Models\\User.cs",
+              "RelativeToolTip": "DALProject\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T20:37:10.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BrandConfigration.cs",
+              "DocumentMoniker": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\DALProject\\Data\\Configartions\\BrandConfigration.cs",
+              "RelativeDocumentMoniker": "DALProject\\Data\\Configartions\\BrandConfigration.cs",
+              "ToolTip": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\DALProject\\Data\\Configartions\\BrandConfigration.cs",
+              "RelativeToolTip": "DALProject\\Data\\Configartions\\BrandConfigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T20:13:01.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ColorConfigartion.cs",
+              "DocumentMoniker": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\DALProject\\Data\\Configartions\\ColorConfigartion.cs",
+              "RelativeDocumentMoniker": "DALProject\\Data\\Configartions\\ColorConfigartion.cs",
+              "ToolTip": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\DALProject\\Data\\Configartions\\ColorConfigartion.cs",
+              "RelativeToolTip": "DALProject\\Data\\Configartions\\ColorConfigartion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T19:49:07.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\PlProject\\Program.cs",
+              "RelativeDocumentMoniker": "PlProject\\Program.cs",
+              "ToolTip": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\PlProject\\Program.cs",
+              "RelativeToolTip": "PlProject\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T19:42:19.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Part.cs",
+              "DocumentMoniker": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\DALProject\\Models\\Part.cs",
+              "RelativeDocumentMoniker": "DALProject\\Models\\Part.cs",
+              "ToolTip": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\DALProject\\Models\\Part.cs",
+              "RelativeToolTip": "DALProject\\Models\\Part.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T19:13:48.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\DALProject\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "DALProject\\Models\\Brand.cs",
+              "ToolTip": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\DALProject\\Models\\Brand.cs",
+              "RelativeToolTip": "DALProject\\Models\\Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T19:12:21.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\DALProject\\Models\\Model.cs",
+              "RelativeDocumentMoniker": "DALProject\\Models\\Model.cs",
+              "ToolTip": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\DALProject\\Models\\Model.cs",
+              "RelativeToolTip": "DALProject\\Models\\Model.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T19:09:56.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\DALProject\\Models\\Color.cs",
+              "RelativeDocumentMoniker": "DALProject\\Models\\Color.cs",
+              "ToolTip": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\DALProject\\Models\\Color.cs",
+              "RelativeToolTip": "DALProject\\Models\\Color.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T19:05:40.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\DALProject\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "DALProject\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\DALProject\\Models\\Customer.cs",
+              "RelativeToolTip": "DALProject\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T19:03:40.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\DALProject\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "DALProject\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\DALProject\\Models\\Car.cs",
+              "RelativeToolTip": "DALProject\\Models\\Car.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA5wCQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T19:01:49.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\DALProject\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "DALProject\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\DALProject\\Models\\Ticket.cs",
+              "RelativeToolTip": "DALProject\\Models\\Ticket.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAmwCoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T19:00:03.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\DALProject\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "DALProject\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\DALProject\\Models\\Appointment.cs",
+              "RelativeToolTip": "DALProject\\Models\\Appointment.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAuwCAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T18:56:37.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CarAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\DALProject\\CarAppDbContext.cs",
+              "RelativeDocumentMoniker": "DALProject\\CarAppDbContext.cs",
+              "ToolTip": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\DALProject\\CarAppDbContext.cs",
+              "RelativeToolTip": "DALProject\\CarAppDbContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwCUAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T18:53:16.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Bookmark",
@@ -50,30 +343,59 @@
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DALProject",
-              "DocumentMoniker": "C:\\Users\\alaae\\source\\repos\\CarProject\\DALProject\\DALProject.csproj",
+              "DocumentIndex": 18,
+              "Title": "PlProject.csproj",
+              "DocumentMoniker": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\PlProject\\PlProject.csproj",
+              "RelativeDocumentMoniker": "PlProject\\PlProject.csproj",
+              "ToolTip": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\PlProject\\PlProject.csproj",
+              "RelativeToolTip": "PlProject\\PlProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-13T22:21:07.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DALProject.csproj",
+              "DocumentMoniker": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\DALProject\\DALProject.csproj",
               "RelativeDocumentMoniker": "DALProject\\DALProject.csproj",
-              "ToolTip": "C:\\Users\\alaae\\source\\repos\\CarProject\\DALProject\\DALProject.csproj",
+              "ToolTip": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\DALProject\\DALProject.csproj",
               "RelativeToolTip": "DALProject\\DALProject.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-10-13T22:21:06.081Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BLLProject",
-              "DocumentMoniker": "C:\\Users\\alaae\\source\\repos\\CarProject\\BLLProject\\BLLProject.csproj",
+              "DocumentIndex": 20,
+              "Title": "BLLProject.csproj",
+              "DocumentMoniker": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\BLLProject\\BLLProject.csproj",
               "RelativeDocumentMoniker": "BLLProject\\BLLProject.csproj",
-              "ToolTip": "C:\\Users\\alaae\\source\\repos\\CarProject\\BLLProject\\BLLProject.csproj",
+              "ToolTip": "C:\\Users\\alaae\\OneDrive\\Desktop\\CarProject\\BLLProject\\BLLProject.csproj",
               "RelativeToolTip": "BLLProject\\BLLProject.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-10-13T22:21:04.907Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         },
