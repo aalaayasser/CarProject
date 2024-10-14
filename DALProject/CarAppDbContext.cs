@@ -12,6 +12,10 @@ namespace DALProject
     internal class CarAppDbContext : DbContext
     {
         public DbSet<Ticket> Tickets { get; set; }
+        public DbSet<Brand> Brands { get; set; }
+        public DbSet<Car> Cars { get; set; }
+        public DbSet<Model> Models { get; set; }
+
         public DbSet<Appointment> appointments { get; set; }
         public CarAppDbContext()
         {
