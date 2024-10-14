@@ -21,3 +21,5 @@ namespace DALProject.Data.Configartions
             .HasColumnType("text"); // تحويل لـ varchar
         }
     }
+
+}
