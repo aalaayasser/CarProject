@@ -19,6 +19,7 @@ namespace DALProject.Models
 
         [Display(Name = "Updated Date")]
         public DateTime UpdatedDate { get; set; }
+        public virtual ICollection<Model> Models { get; set; } = new HashSet<Model>();
     }
 }
 

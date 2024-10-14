@@ -34,6 +34,8 @@ namespace DALProject.Models
         public DateTime ActiveDatePfPart { get; set; }
 
         public int CarId { get; set; }
+        public int ServiceId { get; set; }
+
         public string Feedback { get; set; }
 
         [Display(Name = "Is Paid")]
@@ -44,6 +46,8 @@ namespace DALProject.Models
 
         [InverseProperty(nameof(Car.Tickets))]
         public virtual Car Cars { get; set; }
+
+        public virtual Service Service { get; set; }
     }
 
 }

@@ -9,9 +9,9 @@ using System.Threading.Tasks;
 
 namespace DALProject.Data.Configurations
 {
-    internal class TechnicalConfigurations : IEntityTypeConfiguration<Technical>
+    internal class TechnicalConfigurations : IEntityTypeConfiguration<Technician>
     {
-        public void Configure(EntityTypeBuilder<Technical> builder)
+        public void Configure(EntityTypeBuilder<Technician> builder)
         {
             builder.Property(e => e.Name)
              .IsRequired()
