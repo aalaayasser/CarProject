@@ -10,8 +10,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace DALProject.Migrations
 {
     [DbContext(typeof(CarAppDbContext))]
-    [Migration("20241014164142_initialcreate")]
-    partial class initialcreate
+    [Migration("20241014173743_InitialCreate")]
+    partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -44,11 +44,16 @@ namespace DALProject.Migrations
                     b.Property<int>("TechnicalId")
                         .HasColumnType("int");
 
+                    b.Property<int>("TicketId")
+                        .HasColumnType("int");
+
                     b.HasKey("Id");
 
                     b.HasIndex("DriverId");
 
                     b.HasIndex("TechnicalId");
+
+                    b.HasIndex("TicketId");
 
                     b.ToTable("Appointments");
                 });
@@ -276,6 +281,9 @@ namespace DALProject.Migrations
                     b.Property<DateTime>("ActiveDatePfPart")
                         .HasColumnType("datetime2");
 
+                    b.Property<int>("CarId")
+                        .HasColumnType("int");
+
                     b.Property<int>("CurrentKilometres")
                         .HasColumnType("int");
 
@@ -307,6 +315,8 @@ namespace DALProject.Migrations
 
                     b.HasKey("Id");
 
+                    b.HasIndex("CarId");
+
                     b.ToTable("Tickets");
                 });
 
@@ -324,9 +334,33 @@ namespace DALProject.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
+                    b.HasOne("DALProject.Models.Ticket", "Tickets")
+                        .WithMany("Appointments")
+                        .HasForeignKey("TicketId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
                     b.Navigation("Drivers");
 
                     b.Navigation("Technicians");
+
+                    b.Navigation("Tickets");
+                });
+
+            modelBuilder.Entity("DALProject.Models.Ticket", b =>
+                {
+                    b.HasOne("DALProject.Models.Car", "Cars")
+                        .WithMany("Tickets")
+                        .HasForeignKey("CarId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Cars");
+                });
+
+            modelBuilder.Entity("DALProject.Models.Car", b =>
+                {
+                    b.Navigation("Tickets");
                 });
 
             modelBuilder.Entity("DALProject.Models.Driver", b =>
@@ -335,6 +369,11 @@ namespace DALProject.Migrations
                 });
 
             modelBuilder.Entity("DALProject.Models.Technical", b =>
+                {
+                    b.Navigation("Appointments");
+                });
+
+            modelBuilder.Entity("DALProject.Models.Ticket", b =>
                 {
                     b.Navigation("Appointments");
                 });

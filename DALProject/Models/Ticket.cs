@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -32,12 +33,17 @@ namespace DALProject.Models
         [Display(Name = "Active Date of Part")]
         public DateTime ActiveDatePfPart { get; set; }
 
-
+        public int CarId { get; set; }
         public string Feedback { get; set; }
 
         [Display(Name = "Is Paid")]
         public char IsPayed { get; set; }
 
+        [InverseProperty(nameof(Appointment.Tickets))]
+        public virtual ICollection<Appointment> Appointments { get; set; } = new HashSet<Appointment>();
+
+        [InverseProperty(nameof(Car.Tickets))]
+        public virtual Car Cars { get; set; }
     }
 
 }
