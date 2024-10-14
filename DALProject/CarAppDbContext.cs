@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using DALProject.Models;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,7 +11,8 @@ namespace DALProject
 {
     internal class CarAppDbContext : DbContext
     {
-       
+        public DbSet<Ticket> Tickets { get; set; }
+        public DbSet<Appointment> appointments { get; set; }
         public CarAppDbContext()
         {
 
